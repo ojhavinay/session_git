@@ -1,0 +1,6 @@
+-->git init
+-->git status
+-->touch 'file_name'
+-->repo --is like your folder in your git account(Directory)
+
+-->
